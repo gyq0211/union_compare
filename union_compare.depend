@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1632292918 source:c:\users\sfezq8\desktop\union_compare\union_compare\main.cpp
-	<iostream>
-	<malloc.h>
-	<string>
-	<list>
-	<vector>
-	<string.h>
-
